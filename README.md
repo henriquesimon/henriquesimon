@@ -1,50 +1,65 @@
 ![](https://komarev.com/ghpvc/?username=henriquesimon&color=006bed)
 
-## About Me
+## 👋 About Me
 
-- 🤔 Exploring new technologies and developing software solutions.  
-- 🎓 Graduated in Systems Analysis and Development from FADERGS.  
-- 🌱 Learning more about front-end development.
+- 👨‍💻 Developer focused on **front-end** and **cross-platform applications**
+- 🎓 Graduated in **Systems Analysis and Development** (FADERGS)
+- 🚀 Currently improving my skills in **JavaScript**, **Flutter** and modern UI development
+- 🎯 Goal: build clean, scalable interfaces and grow as a front-end developer
 
-## My Skills
+---
 
-**Applications & Data**
+## 🧩 Main Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+
+
+---
+
+## 🧠 Familiar With
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=white)
 
-**Utilities**
+---
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
-**DevOps**
+## 🛠 Tools & Workflow
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Development Tools**
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual%20studio%20code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Android Studio](https://img.shields.io/badge/Android_Studio-333333?style=flat&logo=android-studio&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-333333?style=flat&logo=slack&logoColor=white)&nbsp;
 
-<br/>
 
-<div align="left" style="margin-bottom:100px, margin-top:100px">
-<img width=40% height=300px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=henriquesimon&show_icons=true&theme=react&layout=compact" />
-</div>
+---
 
-## Where to Find Me
+## 📌 Featured Projects
 
-[![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-simon/)](https://www.linkedin.com/in/henrique-simon/)
-[![Gmail Badge](https://img.shields.io/badge/-henriquesimon1998@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquesimon1998@gmail.com)](mailto:henriquesimon1998@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/henriquesimon?label=follow&style=social)](https://github.com/henriquesimon)
+- 🔹 **[chess-brawl](https://github.com/henriquesimon/react-chess-brawl)** – Chess championship management system built with **React**, **Vite** and **Bootstrap**, focusing on match organization and results tracking.
+- 🔹 **[flutter-tic-tac-toe](https://github.com/henriquesimon/flutter-tic-tac-toe)** – Classic Tic Tac Toe mobile app developed with **Flutter** and **Dart**, created as part of my learning journey in cross-platform development.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E0DF&height=120&section=footer"/>
+
+---
+
+## 📊 GitHub Stats
+
+<img 
+  src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=henriquesimon&layout=compact&theme=react" 
+/>
+
+---
+
+## 🌍 Where to Find Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-006bed?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-simon/)
+[![Gmail](https://img.shields.io/badge/-henriquesimon1998@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:henriquesimon1998@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/henriquesimon?label=Follow&style=social)](https://github.com/henriquesimon)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00E0DF&height=120&section=footer"/>
