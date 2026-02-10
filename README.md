@@ -4,7 +4,7 @@
 
 - 👨‍💻 Developer focused on **front-end** and **cross-platform applications**
 - 🎓 Graduated in **Systems Analysis and Development** (FADERGS)
-- 🚀 Currently improving my skills in **JavaScript**, **Flutter** and modern UI development
+- 🚀 Currently improving my skills in **JavaScript**, **TypeScript**, **Flutter** and modern UI development
 - 🎯 Goal: build clean, scalable interfaces and grow as a front-end developer
 
 ---
